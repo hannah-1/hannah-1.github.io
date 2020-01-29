@@ -1,4 +1,4 @@
-## Welcome to Hannah Allen's Github Page
+# Hannah Allen's Github Page
 
 This is a new page I've made to record my school and personal projects.
 
