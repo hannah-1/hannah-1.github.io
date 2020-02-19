@@ -1,6 +1,6 @@
 # Hannah Allen's Github Page
 
-This is a new page I've made to record my school and personal projects.
+This is a page I've made to record my school and personal projects.
 
 ### Ideas for Future Content
 
